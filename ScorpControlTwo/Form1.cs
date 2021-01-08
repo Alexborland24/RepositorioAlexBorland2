@@ -220,6 +220,8 @@ namespace ScorpControlTwo
             GridChamados.DataSource = dt;
             //GridChamados.DataBindings;
             con.Close();
-        }       
+        }
+
+       
     }
 }

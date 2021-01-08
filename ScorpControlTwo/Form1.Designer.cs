@@ -230,9 +230,9 @@
             this.LblMotorista.ForeColor = System.Drawing.Color.Yellow;
             this.LblMotorista.Location = new System.Drawing.Point(12, 20);
             this.LblMotorista.Name = "LblMotorista";
-            this.LblMotorista.Size = new System.Drawing.Size(366, 61);
+            this.LblMotorista.Size = new System.Drawing.Size(480, 61);
             this.LblMotorista.TabIndex = 0;
-            this.LblMotorista.Text = "Senhor(A223)";
+            this.LblMotorista.Text = "Senhor(hauahuah)";
             // 
             // GridChamados
             // 

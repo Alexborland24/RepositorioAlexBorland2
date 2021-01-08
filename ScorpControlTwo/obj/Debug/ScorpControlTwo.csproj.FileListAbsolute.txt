@@ -1,0 +1,10 @@
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\bin\Debug\ScorpControlTwo.exe.config
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\bin\Debug\ScorpControlTwo.exe
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\bin\Debug\ScorpControlTwo.pdb
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\obj\Debug\ScorpControlTwo.csprojAssemblyReference.cache
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\obj\Debug\ScorpControlTwo.Form1.resources
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\obj\Debug\ScorpControlTwo.Properties.Resources.resources
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\obj\Debug\ScorpControlTwo.csproj.GenerateResource.cache
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\obj\Debug\ScorpControlTwo.csproj.CoreCompileInputs.cache
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\obj\Debug\ScorpControlTwo.exe
+D:\Google Drive\Repositorio-C#\ScorpControlTwo\ScorpControlTwo\obj\Debug\ScorpControlTwo.pdb
